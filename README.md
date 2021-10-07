@@ -1,7 +1,7 @@
 # ASSET
 Created by: Yazdan Asgari<br>
-First creation date: 7 May 2021<br>
-Last Updated: 7 Oct 2021<br><br>
+Creation date: 7 May 2021<br>
+Update: 7 Oct 2021<br><br>
 
 **Ref:** Bhattacharjee et al., "A Subset-Based Approach Improves Power and Interpretation for the Combined Analysis of Genetic Association Studies of Heterogeneous Traits",
 Am J Hum Genet. 2012 May 4; 90(5): 821–835., doi:10.1016/j.ajhg.2012.03.015 [Paper_link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3376551/)
