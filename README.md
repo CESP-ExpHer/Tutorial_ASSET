@@ -1,7 +1,7 @@
 # ASSET
 Created by: Yazdan Asgari<br>
 Creation date: 7 May 2021<br>
-Update: 7 Oct 2021<br>
+Update: 13 Feb 2024<br>
 https://cesp.inserm.fr/en/equipe/exposome-and-heredity
 <br>
 <br>
@@ -18,7 +18,7 @@ library('ASSET')
 ```
 As we mentioned earlier, we bring an example of running ASSET on two different studies
 <br>
-**NOTE:** for run the code faster, we just considered the first 1000 rows from the BCAC & EPITHYR data
+**NOTE:** To run the code faster, we just considered the first 1000 rows from the BCAC & EPITHYR data
 <br>
 The input should include GWAS summary statistics data
 <br>
@@ -207,7 +207,7 @@ Here is an example of the saved file:
 | rs4073177 |	0.0253979142533489 |	0.336459488997903 |	0.0115192506674362 |	1.052 |	0.948 |	1.167 |	0.976 |	0.959 |	0.995 |	Study1 |	Study2 |	1 |
 | rs9442394 |	0.0249585792995359 |	0.360923363628306 |	0.0105196586172951 |	1.05 |	0.946 |	1.165 |	0.976 |	0.958	| 0.994 |	Study1 |	Study2 |	1 |
 
-**IMPORTANT NOTE:** Always remember to save the sessionInfo results for your code and keep it in the your running folder
+**IMPORTANT NOTE:** Always remember to save the sessionInfo results for your code and keep it in your running folder
 <br>
 **sessionInfo()**
 ```r
